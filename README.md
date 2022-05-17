@@ -1,6 +1,11 @@
-# devflix_clone_master
+# Trekflix_clone
 Repositório faz parte do Bootcamp da DIO: Web Developer Carrefour
 Curso "**Recriando a Interface do Netflix**"
-- Disponível em: [Digital Innovation One](https://web.dio.me/)
-- Ministrado por: [Felipe Aguiar](https://github.com/felipeAguiarCode)
-- Repositório ogirinal: https://github.com/felipeAguiarCode/netflix-clone
+- Curso disponível em: [Digital Innovation One](https://web.dio.me/)
+- Curso ministrado por: [Felipe Aguiar](https://github.com/felipeAguiarCode)
+- Repositório original: https://github.com/felipeAguiarCode/netflix-clone
+- Cadastre-se [por aqui](https://dio.me/sign-up?ref=nelis_expert) na plataforma e estude programação de gratuitamente!
+
+## O resultado
+
+**TrekFlix:** https://trekflix.nelis.me
